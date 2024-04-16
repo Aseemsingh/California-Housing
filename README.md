@@ -1,2 +1,2 @@
 # California-Housing
-Predicting median California housing prices from Machine Learning methods.
+Predicting median California housing prices from Machine Learning models.
